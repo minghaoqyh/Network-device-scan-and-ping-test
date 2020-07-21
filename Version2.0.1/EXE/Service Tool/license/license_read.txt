@@ -1,6 +1,0 @@
-1: MED_EXTARO_Classroom 1.0 permanent uncounted HOSTID=ID_STRING=1234567890 VENDOR_STRING="LicenseType=" ISSUER="Carl Zeiss" ISSUED=1-apr-2017 START=16-feb-2017
-2: MED_EXTARO_DICOM 1.0 permanent uncounted HOSTID=ID_STRING=1234567890 VENDOR_STRING="LicenseType=" ISSUER="Carl Zeiss" ISSUED=1-apr-2017 START=16-feb-2017
-3: MED_EXTARO_Fluorescence_mode 1.0 permanent uncounted HOSTID=ID_STRING=1234567890 VENDOR_STRING="LicenseType=" ISSUER="Carl Zeiss" ISSUED=1-apr-2017 START=16-feb-2017
-4: MED_EXTARO_LightBoost 1.0 permanent uncounted HOSTID=ID_STRING=1234567890 VENDOR_STRING="LicenseType=" ISSUER="Carl Zeiss" ISSUED=1-apr-2017 START=24-mar-2017
-5: MED_EXTARO_NoGlare_mode 1.0 permanent uncounted HOSTID=ID_STRING=1234567890 VENDOR_STRING="LicenseType=" ISSUER="Carl Zeiss" ISSUED=1-apr-2017 START=16-feb-2017
-6: MED_EXTARO_TrueLight_mode 1.0 permanent uncounted HOSTID=ID_STRING=1234567890 VENDOR_STRING="LicenseType=" ISSUER="Carl Zeiss" ISSUED=1-apr-2017 START=24-mar-2017

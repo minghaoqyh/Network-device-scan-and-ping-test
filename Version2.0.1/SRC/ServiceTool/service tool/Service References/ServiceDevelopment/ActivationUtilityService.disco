@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
-  <contractRef ref="http://defthsapp20.cznet.zeiss.org/CZEH/ActivationUtilityService.asmx?wsdl" docRef="http://defthsapp20.cznet.zeiss.org/CZEH/ActivationUtilityService.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
-  <soap address="http://defthsapp20.cznet.zeiss.org/CZEH/ActivationUtilityService.asmx" xmlns:q1="http://license.zeiss.org/" binding="q1:ActivationUtilityServiceSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
-  <soap address="http://defthsapp20.cznet.zeiss.org/CZEH/ActivationUtilityService.asmx" xmlns:q2="http://license.zeiss.org/" binding="q2:ActivationUtilityServiceSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
-</discovery>
