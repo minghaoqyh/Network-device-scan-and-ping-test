@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Project name="XXXX">
+    <DeviceList>
+      <Device name="IP1" ip="10.202.160.12" />
+      <Device name="IP2" ip="10.202.160.18" />
+      <Device name="IP3" ip="10.202.160.28" />
+      <Device name="IP4" ip="10.202.160.33" />
+      <Device name="IP5" ip="10.202.160.43" />
+      <Device name="IP6" ip="10.202.160.45" />
+      <Device name="IP7" ip="10.202.160.51" />
+      <Device name="IP8" ip="10.202.160.57" />
+      <Device name="IP9" ip="10.202.160.67" />
+      <Device name="IP10" ip="10.202.160.68" />
+      <Device name="IP11" ip="10.202.160.69" />
+      <Device name="IP12" ip="10.202.160.72" />
+      <Device name="IP13" ip="10.202.160.74" />
+      <Device name="IP14" ip="10.202.160.80" />
+      <Device name="IP15" ip="10.202.160.82" />
+      <Device name="IP16" ip="10.202.160.88" />
+      <Device name="IP17" ip="10.202.160.90" />
+      <Device name="IP18" ip="10.202.160.94" />
+      <Device name="IP19" ip="10.202.160.95" />
+      <Device name="IP20" ip="10.202.160.100" />
+      <Device name="IP21" ip="10.202.160.104" />
+      <Device name="IP22" ip="10.202.160.109" />
+      <Device name="IP23" ip="10.202.160.123" />
+      <Device name="IP24" ip="10.202.160.131" />
+      <Device name="IP25" ip="10.202.160.136" />
+      <Device name="IP26" ip="10.202.160.146" />
+      <Device name="IP27" ip="10.202.160.148" />
+      <Device name="IP28" ip="10.202.160.158" />
+      <Device name="IP29" ip="10.202.160.174" />
+      <Device name="IP30" ip="10.202.160.212" />
+      <Device name="IP31" ip="10.202.160.226" />
+      <Device name="IP32" ip="10.202.161.18" />
+      <Device name="IP33" ip="10.202.161.36" />
+      <Device name="IP34" ip="10.202.161.58" />
+      <Device name="IP35" ip="10.202.161.84" />
+      <Device name="IP36" ip="10.202.161.93" />
+      <Device name="IP37" ip="10.202.161.99" />
+      <Device name="IP38" ip="10.202.161.100" />
+      <Device name="IP39" ip="10.202.161.104" />
+      <Device name="IP40" ip="10.202.161.115" />
+      <Device name="IP41" ip="10.202.161.116" />
+      <Device name="IP42" ip="10.202.161.129" />
+      <Device name="IP43" ip="10.202.161.135" />
+      <Device name="IP44" ip="10.202.161.150" />
+      <Device name="IP45" ip="10.202.161.156" />
+      <Device name="IP46" ip="10.202.161.158" />
+      <Device name="IP47" ip="10.202.161.160" />
+      <Device name="IP48" ip="10.202.161.164" />
+      <Device name="IP49" ip="10.202.161.185" />
+      <Device name="IP50" ip="10.202.161.186" />
+      <Device name="IP51" ip="10.202.161.200" />
+      <Device name="IP52" ip="10.202.161.206" />
+      <Device name="IP53" ip="10.202.161.207" />
+      <Device name="IP54" ip="10.202.161.210" />
+      <Device name="IP55" ip="10.202.161.228" />
+      <Device name="IP56" ip="10.202.161.230" />
+      <Device name="IP57" ip="10.202.161.240" />
+      <Device name="IP58" ip="10.202.161.248" />
+      <Device name="IP59" ip="10.202.161.249" />
+      <Device name="IP60" ip="10.202.161.251" />
+      <Device name="IP61" ip="10.202.162.1" />
+      <Device name="IP62" ip="10.202.162.4" />
+      <Device name="IP63" ip="10.202.162.6" />
+      <Device name="IP64" ip="10.202.162.8" />
+      <Device name="IP65" ip="10.202.162.9" />
+      <Device name="IP66" ip="10.202.162.16" />
+      <Device name="IP67" ip="10.202.162.17" />
+      <Device name="IP68" ip="10.202.162.23" />
+      <Device name="IP69" ip="10.202.162.56" />
+      <Device name="IP70" ip="10.202.162.72" />
+      <Device name="IP71" ip="10.202.162.75" />
+      <Device name="IP72" ip="10.202.162.92" />
+      <Device name="IP73" ip="10.202.162.100" />
+      <Device name="IP74" ip="10.202.162.108" />
+      <Device name="IP75" ip="10.202.162.109" />
+      <Device name="IP76" ip="10.202.162.135" />
+      <Device name="IP77" ip="10.202.163.254" />
+    </DeviceList>
+  </Project>
+</Root>

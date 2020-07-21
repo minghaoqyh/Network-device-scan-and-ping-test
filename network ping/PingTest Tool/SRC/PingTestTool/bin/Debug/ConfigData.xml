@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+
+<Root>
+	<Project name="XXXX">
+		<DeviceList>
+			<Device name="S0" ip="192.168.1.1"></Device>
+			<Device name="S1" ip="192.168.1.174"></Device>
+			<Device name="S2" ip="192.168.1.211"></Device>
+		</DeviceList>
+	</Project>
+</Root>

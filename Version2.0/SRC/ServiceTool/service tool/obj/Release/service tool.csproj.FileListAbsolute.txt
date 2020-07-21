@@ -1,0 +1,56 @@
+C:\VS_workspace\Version1.4.3\SRC\ServiceTool\service tool\bin\Release\ExtaroServiceTool.exe.config
+C:\VS_workspace\Version1.4.3\SRC\ServiceTool\service tool\bin\Release\ExtaroServiceTool.exe
+C:\VS_workspace\Version1.4.3\SRC\ServiceTool\service tool\bin\Release\ExtaroServiceTool.pdb
+C:\VS_workspace\Version1.4.3\SRC\ServiceTool\service tool\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\VS_workspace\Version1.4.3\SRC\ServiceTool\service tool\obj\Release\service_tool.AdvancedForm.resources
+C:\VS_workspace\Version1.4.3\SRC\ServiceTool\service tool\obj\Release\service_tool.ErrorMsg.resources
+C:\VS_workspace\Version1.4.3\SRC\ServiceTool\service tool\obj\Release\service_tool.FormSetup.resources
+C:\VS_workspace\Version1.4.3\SRC\ServiceTool\service tool\obj\Release\service_tool.ErrLogDefineForm.resources
+C:\VS_workspace\Version1.4.3\SRC\ServiceTool\service tool\obj\Release\service_tool.InfoMessage.resources
+C:\VS_workspace\Version1.4.3\SRC\ServiceTool\service tool\obj\Release\service_tool.MainMenu.resources
+C:\VS_workspace\Version1.4.3\SRC\ServiceTool\service tool\obj\Release\service_tool.OperLogDefineForm.resources
+C:\VS_workspace\Version1.4.3\SRC\ServiceTool\service tool\obj\Release\service_tool.License.resources
+C:\VS_workspace\Version1.4.3\SRC\ServiceTool\service tool\obj\Release\service_tool.LogFiles.resources
+C:\VS_workspace\Version1.4.3\SRC\ServiceTool\service tool\obj\Release\service_tool.Parameters.resources
+C:\VS_workspace\Version1.4.3\SRC\ServiceTool\service tool\obj\Release\service_tool.Pages.Version.resources
+C:\VS_workspace\Version1.4.3\SRC\ServiceTool\service tool\obj\Release\service_tool.Password.resources
+C:\VS_workspace\Version1.4.3\SRC\ServiceTool\service tool\obj\Release\service_tool.Properties.Resources.resources
+C:\VS_workspace\Version1.4.3\SRC\ServiceTool\service tool\obj\Release\service_tool.BaseCmd.resources
+C:\VS_workspace\Version1.4.3\SRC\ServiceTool\service tool\obj\Release\service_tool.ServiceLicense.resources
+C:\VS_workspace\Version1.4.3\SRC\ServiceTool\service tool\obj\Release\service tool.csproj.GenerateResource.cache
+C:\VS_workspace\Version1.4.3\SRC\ServiceTool\service tool\obj\Release\service tool.csproj.CopyComplete
+C:\VS_workspace\Version1.4.3\SRC\ServiceTool\service tool\obj\Release\ExtaroServiceTool.exe
+C:\VS_workspace\Version1.4.3\SRC\ServiceTool\service tool\obj\Release\ExtaroServiceTool.pdb
+C:\VS_workspace\Version1.4.3\SRC\ServiceTool\service tool\bin\Release\ExtaroServiceTool.exe.manifest
+C:\VS_workspace\Version1.4.3\SRC\ServiceTool\service tool\bin\Release\ExtaroServiceTool.application
+C:\VS_workspace\Version1.4.3\SRC\ServiceTool\service tool\obj\Release\ExtaroServiceTool.exe.manifest
+C:\VS_workspace\Version1.4.3\SRC\ServiceTool\service tool\obj\Release\ExtaroServiceTool.application
+C:\VS_workspace\Version1.4.3\SRC\ServiceTool\service tool\obj\Release\service tool.csprojAssemblyReference.cache
+C:\VS_workspace\Version2.0\SRC\ServiceTool\service tool\bin\Release\ExtaroServiceTool.exe.config
+C:\VS_workspace\Version2.0\SRC\ServiceTool\service tool\bin\Release\ExtaroServiceTool.exe.manifest
+C:\VS_workspace\Version2.0\SRC\ServiceTool\service tool\bin\Release\ExtaroServiceTool.application
+C:\VS_workspace\Version2.0\SRC\ServiceTool\service tool\bin\Release\ExtaroServiceTool.exe
+C:\VS_workspace\Version2.0\SRC\ServiceTool\service tool\bin\Release\ExtaroServiceTool.pdb
+C:\VS_workspace\Version2.0\SRC\ServiceTool\service tool\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\VS_workspace\Version2.0\SRC\ServiceTool\service tool\obj\Release\service tool.csprojAssemblyReference.cache
+C:\VS_workspace\Version2.0\SRC\ServiceTool\service tool\obj\Release\service_tool.AdvancedForm.resources
+C:\VS_workspace\Version2.0\SRC\ServiceTool\service tool\obj\Release\service_tool.ErrorMsg.resources
+C:\VS_workspace\Version2.0\SRC\ServiceTool\service tool\obj\Release\service_tool.FormSetup.resources
+C:\VS_workspace\Version2.0\SRC\ServiceTool\service tool\obj\Release\service_tool.ErrLogDefineForm.resources
+C:\VS_workspace\Version2.0\SRC\ServiceTool\service tool\obj\Release\service_tool.InfoMessage.resources
+C:\VS_workspace\Version2.0\SRC\ServiceTool\service tool\obj\Release\service_tool.MainMenu.resources
+C:\VS_workspace\Version2.0\SRC\ServiceTool\service tool\obj\Release\service_tool.OperLogDefineForm.resources
+C:\VS_workspace\Version2.0\SRC\ServiceTool\service tool\obj\Release\service_tool.License.resources
+C:\VS_workspace\Version2.0\SRC\ServiceTool\service tool\obj\Release\service_tool.LogFiles.resources
+C:\VS_workspace\Version2.0\SRC\ServiceTool\service tool\obj\Release\service_tool.Parameters.resources
+C:\VS_workspace\Version2.0\SRC\ServiceTool\service tool\obj\Release\service_tool.Pages.Version.resources
+C:\VS_workspace\Version2.0\SRC\ServiceTool\service tool\obj\Release\service_tool.Password.resources
+C:\VS_workspace\Version2.0\SRC\ServiceTool\service tool\obj\Release\service_tool.Properties.Resources.resources
+C:\VS_workspace\Version2.0\SRC\ServiceTool\service tool\obj\Release\service_tool.BaseCmd.resources
+C:\VS_workspace\Version2.0\SRC\ServiceTool\service tool\obj\Release\service_tool.ServiceLicense.resources
+C:\VS_workspace\Version2.0\SRC\ServiceTool\service tool\obj\Release\service tool.csproj.GenerateResource.cache
+C:\VS_workspace\Version2.0\SRC\ServiceTool\service tool\obj\Release\ExtaroServiceTool.exe.manifest
+C:\VS_workspace\Version2.0\SRC\ServiceTool\service tool\obj\Release\ExtaroServiceTool.application
+C:\VS_workspace\Version2.0\SRC\ServiceTool\service tool\obj\Release\service tool.csproj.CopyComplete
+C:\VS_workspace\Version2.0\SRC\ServiceTool\service tool\obj\Release\ExtaroServiceTool.exe
+C:\VS_workspace\Version2.0\SRC\ServiceTool\service tool\obj\Release\ExtaroServiceTool.pdb
